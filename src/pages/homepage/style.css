@@ -1,0 +1,20 @@
+.mainHomePage {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 3em;
+}
+
+.mainHomePage h1{
+    font-size: 4rem;
+}
+
+.name {
+    color: #2978b5;
+}
+.desc{
+    width: 600px;
+}
+a{
+    margin: 10px;
+}
